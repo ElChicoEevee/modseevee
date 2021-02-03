@@ -1,0 +1,9 @@
+a:hover {
+	filter: blur(0px);
+}
+a{
+	filter: saturate(0%);
+}
+a:target {
+	filter: saturate(100%);
+}
